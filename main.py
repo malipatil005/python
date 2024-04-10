@@ -1,3 +1,10 @@
 
+class myclass:
+    """this is simple class"""
+    def __init__(self):
+        print("this is simple class")
 
-print("hello world\n")
+
+
+if __name__=="__main__":
+    c=myclass()
